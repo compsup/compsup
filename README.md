@@ -7,8 +7,4 @@
 - Docker
 - Server managment
 
-# Currently Working On
-- [TextAdventure](https://github.com/compsup/textadventure)
-- [YT-Spammer-Purge](https://github.com/ThioJoe/YT-Spammer-Purge)
-
 
