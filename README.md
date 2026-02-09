@@ -3,7 +3,7 @@
 
 # Hi, I'm Lauren
 
-Computer Science student | Developer | Tinkerer  
+Computer Science student | Developer | IT 
 
 I am a University student doing my Bachelor of Computing @ Queen's University in Kingston, Ontario.
 
@@ -17,9 +17,9 @@ I am a University student doing my Bachelor of Computing @ Queen's University in
 
 ---
 
-## 📌 Current Projects
-- 🎮 **Game Project** – Building a 2D game in Godot to learn engine design and UI.  
-- 🌐 **Personal Website** - Adding onto my blog
+## Current Projects
+- **Game Project** – Building a 3D game in Godot to learn engine design and UI.  
+- **Personal Website** - Adding onto my blog
   
 ---
 
